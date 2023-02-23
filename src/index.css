@@ -1,0 +1,21 @@
+*{
+  font-family: 'Inter', sans-serif;
+font-style: normal;
+  color: aliceblue;
+}
+.header{
+  /* background-color: rgb(126, 9, 126); */
+  background-image: linear-gradient(to right, rgb(107, 5, 175) , rgb(212, 48, 253));
+}
+.header--elements{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 0 2rem;
+}
+.header--img > img{
+  width: 50px;
+}
+.header--img{
+  display: flex;
+}
