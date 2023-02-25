@@ -9,7 +9,7 @@ export default function Header(){
                     <h4>Meme Generator</h4>
                 </div>
                 <div>
-                
+                    
                     <h2> <a href="https://github.com/zerktea"> <FaGithub/></a> </h2>
                 </div>
             </div>
